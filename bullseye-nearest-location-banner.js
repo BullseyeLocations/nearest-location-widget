@@ -1,8 +1,8 @@
 ﻿var bullseyeLocator = (function ($) {
 	//Variables to modify
     var absoluteUrl = ''; //If you want to reference images/pages from another site, add the URL here between the quotes. Otherwise, leave it blank.
-	var bullseyeApiKey = 'afbcb0bc-bb6b-4af4-8c48-c6b93bb733d2'; //Retrieve this from the Bullseye Admin
-	var bullseyeClientId = '1091'; //Retrieve this from the Bullseye Admin
+	var bullseyeApiKey = ''; //Retrieve this from the Bullseye Admin
+	var bullseyeClientId = ''; //Retrieve this from the Bullseye Admin
     var displayLocName = true; //Display the name of the location in the banner
 	var displayPhone = true; //Display the phone number of the location in the banner
     var imagesDir = 'images'; //Directory where you will put the images. We provide an icon by default. You can also use your own. Final path will start with the "absoluteUrl" + "imagesDir".
