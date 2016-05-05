@@ -12,7 +12,7 @@
 	
 	
 	//Do not modify
-	var bullseyeWsUrl = 'http://leadmanagerws.electricvine.com';
+	var bullseyeWsUrl = 'https://ws.bullseyelocations.com';
 	var headerDivId = 'bullseye-banner-header';
     var headerInnerDivId = 'bullseye-banner-header-inner';
     var headerLoaderId = 'bullseye-banner-header-loader';
